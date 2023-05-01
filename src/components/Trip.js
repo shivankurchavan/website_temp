@@ -38,6 +38,7 @@ function Trip() {
           heading="Akasa"
           text="infinite as the akasa, you give hope to those in need and become their lightbearer."
         />
+        
       </div>
     </div>
   );
